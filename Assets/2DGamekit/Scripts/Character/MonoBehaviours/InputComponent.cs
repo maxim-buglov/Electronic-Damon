@@ -104,9 +104,9 @@ namespace Gamekit2D
                 {
                     if (fixedUpdateHappened)
                     {
-                        Down = Input.GetButtonDown(k_ButtonsToName[(int)controllerButton]);
-                        Held = Input.GetButton(k_ButtonsToName[(int)controllerButton]);
-                        Up = Input.GetButtonUp(k_ButtonsToName[(int)controllerButton]);
+                        Down = Input.GetButtonDown(k_ButtonsToName[(int)controllerButton]) || Input.GetKeyDown(key);
+                        Held = Input.GetButton(k_ButtonsToName[(int)controllerButton]) || Input.GetKey(key);
+                        Up = Input.GetButtonUp(k_ButtonsToName[(int)controllerButton]) || Input.GetKeyUp(key);
 
                         m_AfterFixedUpdateDown = Down;
                         m_AfterFixedUpdateHeld = Held;
@@ -114,9 +114,9 @@ namespace Gamekit2D
                     }
                     else
                     {
-                        Down = Input.GetButtonDown(k_ButtonsToName[(int)controllerButton]) || m_AfterFixedUpdateDown;
-                        Held = Input.GetButton(k_ButtonsToName[(int)controllerButton]) || m_AfterFixedUpdateHeld;
-                        Up = Input.GetButtonUp(k_ButtonsToName[(int)controllerButton]) || m_AfterFixedUpdateUp;
+                        Down = Input.GetButtonDown(k_ButtonsToName[(int)controllerButton]) || m_AfterFixedUpdateDown || Input.GetKeyDown(key) || m_AfterFixedUpdateDown;
+                        Held = Input.GetButton(k_ButtonsToName[(int)controllerButton]) || m_AfterFixedUpdateHeld || Input.GetKey(key) || m_AfterFixedUpdateHeld;
+                        Up = Input.GetButtonUp(k_ButtonsToName[(int)controllerButton]) || m_AfterFixedUpdateUp || Input.GetKeyUp(key) || m_AfterFixedUpdateUp;
 
                         m_AfterFixedUpdateDown |= Down;
                         m_AfterFixedUpdateHeld |= Held;
@@ -236,8 +236,8 @@ namespace Gamekit2D
                 if (inputType == InputType.Controller)
                 {
                     float value = Input.GetAxisRaw(k_AxisToName[(int)controllerAxis]);
-                    positiveHeld = value > Single.Epsilon;
-                    negativeHeld = value < -Single.Epsilon;
+                    positiveHeld = value > Single.Epsilon || Input.GetKey(positive);
+                    negativeHeld = value < -Single.Epsilon || Input.GetKey(negative);
                 }
                 else if (inputType == InputType.MouseAndKeyboard)
                 {
