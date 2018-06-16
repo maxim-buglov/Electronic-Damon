@@ -1350,10 +1350,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aeecda2baef25704c8fe802e627e9f27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inputType: 0
+  inputType: 1
   Pause:
     key: 27
-    controllerButton: 8
+    controllerButton: 7
     m_Enabled: 1
   Interact:
     key: 101
@@ -1365,11 +1365,11 @@ MonoBehaviour:
     m_Enabled: 0
   RangedAttack:
     key: 111
-    controllerButton: 10
+    controllerButton: 1
     m_Enabled: 0
   Jump:
     key: 32
-    controllerButton: 1
+    controllerButton: 2
     m_Enabled: 1
   Horizontal:
     positive: 100
