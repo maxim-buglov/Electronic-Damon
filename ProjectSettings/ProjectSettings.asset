@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: 771ff81746c60415d9a66b974f06aa98
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -741,7 +741,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 2c1a76ac-d79a-43e5-a29c-68943f87347c
-  projectName: Platformer-2D
+  projectName: Electronic Damon
   organizationId: maxim-buglov
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
