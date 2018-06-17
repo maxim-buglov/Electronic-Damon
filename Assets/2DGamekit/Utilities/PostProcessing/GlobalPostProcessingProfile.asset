@@ -39,7 +39,7 @@ MonoBehaviour:
     value: 0.68
   softKnee:
     overrideState: 1
-    value: 0.5
+    value: 0.268
   diffusion:
     overrideState: 1
     value: 1
@@ -84,7 +84,7 @@ MonoBehaviour:
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.404
+    value: 0.269
   smoothness:
     overrideState: 1
     value: 0.88
@@ -120,7 +120,7 @@ MonoBehaviour:
     value: {fileID: 0}
   intensity:
     overrideState: 1
-    value: 0.653
+    value: 0.466
   fastMode:
     overrideState: 0
     value: 0
@@ -195,7 +195,7 @@ MonoBehaviour:
     value: -0.42
   contrast:
     overrideState: 1
-    value: 2
+    value: -13
   mixerRedOutRedIn:
     overrideState: 0
     value: 100
