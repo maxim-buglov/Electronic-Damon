@@ -37,7 +37,7 @@ MonoBehaviour:
   intensity:
     overrideState: 1
     value: 0.1
-  mobileOptimized:
+  fastMode:
     overrideState: 0
     value: 0
 --- !u!114 &114405315301316654
@@ -73,7 +73,7 @@ MonoBehaviour:
   color:
     overrideState: 0
     value: {r: 1, g: 1, b: 1, a: 1}
-  mobileOptimized:
+  fastMode:
     overrideState: 0
     value: 0
   dirtTexture:
@@ -294,7 +294,7 @@ MonoBehaviour:
         m_Curve: []
         m_PreInfinity: 2
         m_PostInfinity: 2
-        m_RotationOrder: 4
+        m_RotationOrder: 0
       m_Loop: 1
       m_ZeroValue: 0.5
       m_Range: 1
