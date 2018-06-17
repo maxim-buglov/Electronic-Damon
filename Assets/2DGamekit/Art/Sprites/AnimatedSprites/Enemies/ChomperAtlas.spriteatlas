@@ -32,8 +32,35 @@ SpriteAtlas:
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
+  - {fileID: 21300000, guid: 74253179c762ff043aa6a84442742e1a, type: 3}
+  - {fileID: 21300000, guid: 2b7ce0cd170e2b44abe8b6be30b616b6, type: 3}
+  - {fileID: 21300000, guid: 56886e4400c08ef49a1699f908124f77, type: 3}
+  - {fileID: 21300000, guid: 6ddde54a716c46544b9c17df01b72aca, type: 3}
+  - {fileID: 21300000, guid: c8b6acf37b899cb488695b572773688e, type: 3}
+  - {fileID: 21300000, guid: acd9d6ba6e61c8b46a5397fffe4491ad, type: 3}
+  - {fileID: 21300000, guid: fad4b95fb81fa414687c621918b98a2c, type: 3}
+  - {fileID: 21300000, guid: ce5fa91f6cddd4643a31378714d1b20e, type: 3}
+  - {fileID: 21300000, guid: 6a1527e1c830d2547afa073c6b8f04a4, type: 3}
+  - {fileID: 21300000, guid: 389239b0450868942995ef0d214bc087, type: 3}
+  - {fileID: 21300000, guid: 2f9f6ece45c41604dac98915fc4c90fd, type: 3}
+  - {fileID: 21300000, guid: 36f25d7e2a93a474880e15f0e14f55c9, type: 3}
+  - {fileID: 21300000, guid: fdeaff2097b1a224fa6c3e56d63a4c32, type: 3}
+  - {fileID: 21300000, guid: ab18f3e878668934ebb2af28401ec433, type: 3}
+  - {fileID: 21300000, guid: 7eb2b9fda32f5914992420936d283f6a, type: 3}
+  - {fileID: 21300000, guid: 7f8a7d70e0767974fa5f8842e6aca29b, type: 3}
+  - {fileID: 21300000, guid: 7518150e7eaac3c45b6a98979e0ad6c7, type: 3}
+  - {fileID: 21300000, guid: 8f08c490844be944ca5da0257743b859, type: 3}
+  - {fileID: 21300000, guid: 862999dbb487b2846b1015716208f2c4, type: 3}
+  - {fileID: 21300000, guid: 194cc814a23d8da42958acaec50fe42c, type: 3}
+  - {fileID: 21300000, guid: 6cc97ec46b9b670408e027b16163d9fe, type: 3}
+  - {fileID: 21300000, guid: 7f2d0131b2892b54584c7cabcbfafba2, type: 3}
+  - {fileID: 21300000, guid: 2f885a9d170908346aa8311dea447471, type: 3}
+  - {fileID: 21300000, guid: d2328709353a1f64fa21fbfe5a8035bd, type: 3}
+  - {fileID: 21300000, guid: dc58560e0fe2d4d40ac07965b1e10a34, type: 3}
   - {fileID: 21300000, guid: b789f21f154a3744592f10328f51d9b9, type: 3}
   - {fileID: 21300000, guid: b6737a6c649b5664baa6b0e1f942a9e9, type: 3}
+  - {fileID: 21300000, guid: 8e1e9a906f62bb64ba0881a81c918e9d, type: 3}
+  - {fileID: 21300000, guid: 2af94cff343942c419fc7e636c4d2ec8, type: 3}
   - {fileID: 21300000, guid: 882f64064bde2e64db7df2086bc259df, type: 3}
   - {fileID: 21300000, guid: 1c64f7cfb7bf99d48abddaeb45da9704, type: 3}
   - {fileID: 21300000, guid: b6e64dd7555a5fc44b98d71cb5c0d43c, type: 3}
@@ -96,8 +123,35 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 94f6e6ef133c2fc4d978f8e13f22331e, type: 3}
   - {fileID: 21300000, guid: 5ff5b330714abac42a0db7b827b418a6, type: 3}
   m_PackedSpriteNamesToIndex:
+  - babka_atack_0004_Frame-4
+  - babka_atack_0002_Frame-6
+  - babka_atack_0001_Frame-7
+  - babka_atack_0000_Frame-8
+  - babka_atack_0005_Frame-3
+  - babka_atack_0003_Frame-5
+  - babka_atack_0006_Frame-2
+  - babaUpala_0005_Layer-8
+  - BabkaIdle_0001_Group-1
+  - BabkaIdle_0000_Group-1-copy-3
+  - BabkaIdle_0002_Group-1-copy
+  - babaUpala_0004_Layer-7
+  - babaUpala_0006_Layer-9
+  - babkaWalk_0007_Frame-1
+  - babka_atack_0007_Frame-1
+  - babkaWalk_0003_Frame-5
+  - BabkaIdle_0003_Layer-4
+  - babaUpala_0001_Layer-6-copy
+  - babaUpala_0003_Layer-6
+  - babkaWalk_0006_Frame-2
+  - babkaWalk_0000_Frame-8
+  - babaUpala_0000_Layer-5-copy
+  - babaUpala_0002_Layer-5
+  - babkaWalk_0005_Frame-3
+  - babkaWalk_0001_Frame-7
   - ChomperRun_00005
   - ChomperRun_00007
+  - babkaWalk_0002_Frame-6
+  - babkaWalk_0004_Frame-4
   - ChomperDEATH_Paint_13
   - ChomperDEATH_Paint_11
   - ChomperDEATH_Paint_09

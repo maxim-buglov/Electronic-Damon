@@ -32,6 +32,25 @@ SpriteAtlas:
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
+  - {fileID: 21300000, guid: ac5294b2c57c34e44b36101adae59a7e, type: 3}
+  - {fileID: 21300000, guid: 2881ebb38391e064c9d80731bfeba45b, type: 3}
+  - {fileID: 21300000, guid: f16877d2e50dd6646bba743a1bf1b1b9, type: 3}
+  - {fileID: 21300000, guid: 3ab132c4a3f0a7240ab9881ed01a04f5, type: 3}
+  - {fileID: 21300000, guid: b07a7d74fac9d09419d427469ec750f7, type: 3}
+  - {fileID: 21300000, guid: ee1c7607c1e088340abe5a872a0b589f, type: 3}
+  - {fileID: 21300000, guid: 7f91ccf97e62a3c47a022e967eb3a56c, type: 3}
+  - {fileID: 21300000, guid: d178f68202486414f8550cafb18c3618, type: 3}
+  - {fileID: 21300000, guid: b05956973f95b66448fcf6e46dec87bb, type: 3}
+  - {fileID: 21300000, guid: 3266ca346461c844cb11e1a00b0cf695, type: 3}
+  - {fileID: 21300000, guid: 032ee11f23f832e4dbaabad7f08863fd, type: 3}
+  - {fileID: 21300000, guid: 107cfa101de87cc4783a7cfe805b1f17, type: 3}
+  - {fileID: 21300000, guid: 6f05d83be5b66c44e83046dd63ff2aea, type: 3}
+  - {fileID: 21300000, guid: 645cfbc01baa51b43b1785c1b453fd5e, type: 3}
+  - {fileID: 21300000, guid: 996bf67cad193dd48825fab8a151c958, type: 3}
+  - {fileID: 21300000, guid: f36abf8602fc4c440a1af8072789252f, type: 3}
+  - {fileID: 21300000, guid: b7350575015ef2f4c9c98e60d6a35176, type: 3}
+  - {fileID: 21300000, guid: bc3723f8810d6ea4db88dcde6e437622, type: 3}
+  - {fileID: 21300000, guid: 30f84843f756fbc44ba437df7bd361e5, type: 3}
   - {fileID: 21300000, guid: 641c1968aa0040a43a5a56dcb15c37c1, type: 3}
   - {fileID: 21300000, guid: f2f48b5c6d23a094ab94c8c2a222706d, type: 3}
   - {fileID: 21300000, guid: a94191f83905200448f763e26e38b1f0, type: 3}
@@ -49,6 +68,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 970d88aa5a19ea34f966f654dba3c40a, type: 3}
   - {fileID: 21300000, guid: 338b7ab050147cd4ba8dae8c5b192d06, type: 3}
   - {fileID: 21300000, guid: 82e2dad5538a7b94fb7d4a2ec5892fc4, type: 3}
+  - {fileID: 21300000, guid: cde1c22376b51174fb552348d2b14d77, type: 3}
   - {fileID: 21300000, guid: 4db7de89bec7d9241b6f8f9a9149ea12, type: 3}
   - {fileID: 21300000, guid: 13da4665845ba7048a430c77c0c2e710, type: 3}
   - {fileID: 21300000, guid: fc020019f252cdb46a61d9796ded3e11, type: 3}
@@ -89,7 +109,30 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 6ca890c0d46aed24b9dc2b295bc00f66, type: 3}
   - {fileID: 21300000, guid: 9055a2f863bb219428f97595a861d3ae, type: 3}
   - {fileID: 21300000, guid: c0c34b3ce5f3bad4a92ae2ace64ea54b, type: 3}
+  - {fileID: 21300000, guid: 677adb41f9e58194e96cb7dcdc0eebd3, type: 3}
+  - {fileID: 21300000, guid: 77370e3b021791b4a93411888da0585f, type: 3}
+  - {fileID: 21300000, guid: 77ea496818f811c4fa11f1b1494c36c1, type: 3}
+  - {fileID: 21300000, guid: 656453e991b8f2344b06d6583d26f8d7, type: 3}
   m_PackedSpriteNamesToIndex:
+  - vova_0010_Frame-14
+  - vova_0022_Frame-2
+  - vova_0023_Frame-1
+  - vova_0021_Frame-3
+  - vova_0005_Frame-19
+  - vova_0017_Frame-7
+  - vova_0013_Frame-11
+  - vova_0014_Frame-10
+  - vova_0009_Frame-15
+  - vova_0016_Frame-8
+  - vova_0020_Frame-4
+  - vova_0008_Frame-16
+  - vova_0007_Frame-17
+  - vova_0012_Frame-12
+  - vova_0011_Frame-13
+  - vova_0006_Frame-18
+  - vova_0015_Frame-9
+  - vova_0018_Frame-6
+  - vova_0019_Frame-5
   - Ellen_CutscenePortrait_027
   - Ellen_CutscenePortrait_028
   - Ellen_CutscenePortrait_032
@@ -107,6 +150,7 @@ SpriteAtlas:
   - Ellen_CutscenePortrait_019
   - Ellen_CutscenePortrait_021
   - Ellen_CutscenePortrait_017
+  - vova_0004_Frame-20
   - Ellen_CutscenePortrait_037
   - Ellen_CutscenePortrait_036
   - Ellen_CutscenePortrait_035
@@ -147,5 +191,9 @@ SpriteAtlas:
   - Ellen_CutscenePortrait_001
   - Ellen_CutscenePortrait_056
   - Ellen_CutscenePortrait_000
+  - vova_0003_Frame-21
+  - vova_0002_Frame-22
+  - vova_0001_Frame-23
+  - vova_0000_Frame-24
   m_Tag: EllenCutsceneAtlas
   m_IsVariant: 0
