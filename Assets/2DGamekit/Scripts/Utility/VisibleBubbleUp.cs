@@ -12,7 +12,7 @@ namespace Gamekit2D
 
         private void OnBecameVisible()
         {
-            objectBecameVisible(this);
+            // objectBecameVisible(this);
         }
     }
 }
