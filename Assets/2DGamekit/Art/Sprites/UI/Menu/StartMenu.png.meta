@@ -1,13 +1,38 @@
 fileFormatVersion: 2
-guid: 7f83de9ce1b2e9a4882fa64589108f14
-timeCreated: 1516891408
-licenseType: Store
+guid: e9b36a43f797643a580e70f3722b13f2
+timeCreated: 1529236713
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: StartMenu_BG
-    21300002: StartMenu_Indicator
+    21300000: StartMenu 1_0
+    21300002: StartMenu_ButtonHighlighted
     21300004: StartMenu_ButtonDefault
-    21300006: StartMenu_ButtonHighlighted
+    21300006: StartMenu 1_3
+    21300008: StartMenu 1_4
+    21300010: StartMenu 1_5
+    21300012: StartMenu 1_6
+    21300014: StartMenu 1_7
+    21300016: StartMenu 1_8
+    21300018: StartMenu 1_9
+    21300020: StartMenu 1_10
+    21300022: StartMenu 1_11
+    21300024: StartMenu 1_12
+    21300026: StartMenu 1_13
+    21300028: StartMenu 1_14
+    21300030: StartMenu 1_15
+    21300032: StartMenu 1_16
+    21300034: StartMenu 1_17
+    21300036: StartMenu 1_18
+    21300038: StartMenu 1_19
+    21300040: StartMenu 1_20
+    21300042: StartMenu 1_21
+    21300044: StartMenu 1_22
+    21300046: StartMenu 1_23
+    21300048: StartMenu 1_24
+    21300050: StartMenu 1_25
+    21300052: StartMenu 1_26
+    21300054: StartMenu 1_27
+    21300056: StartMenu 1_28
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -49,8 +74,9 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 56, y: 640, z: 54, w: 386}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -80,7 +106,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Android
+  - buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -94,44 +120,16 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: StartMenu_BG
+      name: StartMenu 1_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 0
-        width: 1349
-        height: 1341
+        x: 0
+        y: 954
+        width: 867
+        height: 387
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: StartMenu_Indicator
-      rect:
-        serializedVersion: 2
-        x: 1417
-        y: 1076
-        width: 130
-        height: 128
-      alignment: 9
-      pivot: {x: 0.5151414, y: 0.4261837}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: StartMenu_ButtonDefault
-      rect:
-        serializedVersion: 2
-        x: 1426
-        y: 685
-        width: 587
-        height: 195
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 55, y: 55, z: 55, w: 55}
+      border: {x: 0, y: 130, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -139,17 +137,39 @@ TextureImporter:
       name: StartMenu_ButtonHighlighted
       rect:
         serializedVersion: 2
-        x: 1426
-        y: 433
-        width: 587
-        height: 195
-      alignment: 9
-      pivot: {x: 0.5, y: 0.52}
-      border: {x: 55, y: 55, z: 55, w: 55}
+        x: 3
+        y: 242
+        width: 864
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 8, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-    outline: []
+    - serializedVersion: 2
+      name: StartMenu_ButtonDefault
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 867
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -421.27982, y: -23.650818}
+      - {x: -421.27982, y: 289.72217}
+      - {x: 406.498, y: 289.72217}
+      - {x: 406.498, y: -23.650818}
+    - - {x: -421.27982, y: -407.97626}
+      - {x: -421.27982, y: -38.432556}
+      - {x: 406.498, y: -38.432556}
+      - {x: 406.498, y: -407.97626}
     physicsShape: []
   spritePackingTag: 
   userData: 

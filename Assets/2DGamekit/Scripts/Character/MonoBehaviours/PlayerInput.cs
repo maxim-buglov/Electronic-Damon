@@ -55,7 +55,7 @@ namespace Gamekit2D
 
         protected override void GetInputs(bool fixedUpdateHappened)
         {
-            Pause.Get(fixedUpdateHappened, inputType);
+            //Pause.Get(fixedUpdateHappened, inputType);
             Interact.Get(fixedUpdateHappened, inputType);
             MeleeAttack.Get(fixedUpdateHappened, inputType);
             RangedAttack.Get(fixedUpdateHappened, inputType);
