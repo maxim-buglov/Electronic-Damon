@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 61387512924708856}
   - component: {fileID: 114893438596871560}
   m_Layer: 13
-  m_Name: TriggerBall 1
+  m_Name: TriggerBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
