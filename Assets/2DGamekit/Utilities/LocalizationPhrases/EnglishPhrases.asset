@@ -14,12 +14,90 @@ MonoBehaviour:
   language: English
   phrases:
   - key: INFOPOST1
-    value: "\u201CHello? Is anyone else here? Better keep moving or I\u2019ll be talking
-      to myself for the whole trip. Let\u2019s use A and D for left and right, SPACE
-      to jump and err\u2026 how about S to crouch?\u201D"
+    value: "\u201CChuvak! V etom sne ti ne odin! Ya pomogu tebe ! VMESTE MI SYLA !!!\u201D"
   - key: INFOPOST2
-    value: "\u201CWeird, it feels spongy and strange underfoot. What happens if we
-      try S and SPACE at the same time?\u201D "
+    value: "\u201CBeregis BABKU !!!\u201D "
+  - key: Level21
+    value: OOOO  Nakonec to vtoroy uroven. Idi pryamo ya tebya vedu! Napominayu WASD
+      - hotit, SPACE - prigat. A zahochew postrelat to ticay - O. A balonom navalit
+      gmi - K
+  - key: Level22
+    value: 'LEHA Tut boloto kapec jadovitoe a platformi skolzkie. Bud vnimatelen.
+      Platformi ubiraut zlie BABKI '
+  - key: Level23
+    value: MoY KON' Dovezet k vihodu. Jdi ego...
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
+  - key: INFOPOST3
+    value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
+      try it on this innocent looking wall.\u201D"
   - key: INFOPOST3
     value: "\u201CThis place just got interesting! Use K to hit and O to shoot. Let\u2019s
       try it on this innocent looking wall.\u201D"
